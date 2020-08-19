@@ -1,4 +1,4 @@
-# GAN
+# Generative Adversarial Networks
 Contains from scratch development of Generative Adversarial Networks and related projects
 
 GAN trained on Google quick_draw dataset
